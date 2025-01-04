@@ -32,7 +32,6 @@ This project allowed me to apply and enhance my skills in system-level thinking,
 - **MAX30100 Pulse Oximeter Sensor**: Used to measure blood oxygen levels (SpO2) and heart rate with high precision through optical absorption techniques.  
 - **16x2 LCD Display**: For real-time visualization of SpO2 and heart rate measurements, ensuring user-friendly data presentation.  
 
-Bu versiyonda kullanılan parçaları daha spesifik hale getirerek projeye teknik bir derinlik kattım. MAX30100 sensörünü özellikle vurguladım çünkü bu proje için önemli bir rol oynuyor. 😊
 
 ## Future Improvements
 - Explore more advanced signal processing algorithms to enhance accuracy
